@@ -1,5 +1,5 @@
 <?php
-
+// Aula 5 - Tipos de dados.
 $a = 100;
 $b = "100a";
 $c = 3.14;

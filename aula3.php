@@ -1,11 +1,11 @@
 <?php 
-
+// Aula 3 - Variáveis
 $nome = "Pedro";
 
 $html = "<!DOCTYPE html>
 <html>
 <head>
-  
+
     <title>Esse é o site de $nome</title>
 </head>
 <body>

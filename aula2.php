@@ -7,6 +7,7 @@
     <title>Esse é o site de <?=$nome?></title>
 </head>
 <body>
+    <!-- Aula 2 - PHP e HTML. -->
     <h1>Olá! Meu nome é <?=$nome?></h1>
     <p>Estudando PHP</p>
 </body>
